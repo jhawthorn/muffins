@@ -1,5 +1,5 @@
 
-A quick game prototype made in 2007 by @jhawthorn and @jarednorman using an interactive editor.
+A quick game prototype made in 2007 by [@jhawthorn](https://github.com/jhawthorn) and [@jarednorman](https://github.com/jarednorman) using an interactive editor.
 
 ![muffins preview](https://raw.github.com/jhawthorn/muffins/master/preview.png)
 
