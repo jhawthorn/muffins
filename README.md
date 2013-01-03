@@ -1,5 +1,9 @@
 
-==License==
+A quick game prototype made in 2007 by @jhawthorn and @jarednorman using an interactive editor.
+
+![muffins preview](https://raw.github.com/jhawthorn/muffins/master/preview.png)
+
+# License
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation; either version 2 of the License, or
